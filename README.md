@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there 👋 I'm Sowmiya S
 
-<!--
-**sowmiyasenguttuvan03/sowmiyasenguttuvan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Information Technology Student & a Frontend Developer
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Web Development
+- 👯 I’m looking to collaborate on interesting web related projects
+- 📫 How to reach me: sowmiya.it20@bitsathy.ac.in
+- ⚡ Fun fact: I love cartoons (●'◡'●) and playing games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sowmiyasenguttuvan03&count_private=true&theme=dark&showicons=true)]()
+
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sowmiyasenguttuvan03&langs_count=5&theme=dark)]()
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowmiyasenguttuvan03&theme=dark)](https://git.io/streak-stats)
+
+
+
